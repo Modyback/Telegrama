@@ -1,0 +1,9 @@
+{
+  "telegram_token": "8110492926:AAG5J-1MN_z5brNS_1-W-1fgqpuWUDFaFro",
+  "jap_api_key": "YOUR_JAP_API_KEY",
+  "oxapay_api_key": "WWIF1T-9LUKEO-YGWFWN-2RTMLK",
+  "merchant_api_key": "WWIF1T-9LUKEO-YGWFWN-2RTMLK",
+  "callback_url": "https://your-domain.com/oxapay-webhook",
+  "success_url": "https://t.me/Modyb_bot?start=success",
+  "cancel_url": "https://t.me/Modyb_bot?start=cancel"
+}
